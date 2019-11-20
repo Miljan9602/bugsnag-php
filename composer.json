@@ -1,5 +1,5 @@
 {
-    "name": "bugsnag/bugsnag",
+    "name": "miljan9602/bugsnag",
     "type": "library",
     "description": "Official Bugsnag notifier for PHP applications.",
     "keywords": ["bugsnag", "exceptions", "errors", "logging", "tracking"],
